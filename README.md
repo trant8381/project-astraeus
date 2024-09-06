@@ -1,7 +1,7 @@
 
 # Project Astraeus Git Repo
 
-**Website:** [projectastraeus](https://networksaphyra.github.io/project-astraeus/)
+**Website:** [projectastraeus](https://projectastraeus.org/)
 
 ## Overview
 Project Astraeus is a new organization based in the Waterloo Region, focused on fostering an interest in engineering and entrepreneurship among youth. We aim to give students a chance to positively impact their communities while learning essential industrial skills.
@@ -21,6 +21,6 @@ Connect with us to build a network of youth visionaries.
 
 **Email:** outreach@projectastraeus.org  
 **Instagram:** [@projectastraeus](https://www.instagram.com/projectastraeus)  
-**Website:** [projectastraeus](https://networksaphyra.github.io/project-astraeus/)
+**Website:** [projectastraeus](https://projectastraeus.org/)
 
 Here’s to building a safer, more accessible future.
